@@ -1,0 +1,20 @@
+=== Caixa eletrônico iniciado ===
+
+Cliente: Ana | Saque solicitado: R$ 200.0
+Consultando saldo no servidor do banco...
+Saldo encontrado: R$ 1500.0
+Valor liberado: R$ 200.0
+
+Cliente: Bruno | Saque solicitado: R$ 200.0
+Consultando saldo no servidor do banco...
+ERRO: Servidor do banco indisponível.
+Modo de contingência: saque limitado a R$ 100.0
+Valor liberado: R$ 100.0
+
+Cliente: Carla | Saque solicitado: R$ 200.0
+Consultando saldo no servidor do banco...
+Saldo encontrado: R$ 320.0
+Valor liberado: R$ 200.0
+
+O programa continuou sua execução e atendeu todos os clientes.
+=== Fim do expediente ===
